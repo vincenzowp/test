@@ -4,7 +4,7 @@
         xmlns:gap 	= "http://phonegap.com/ns/1.0"
         id        	= "com.cesareovincenzo.walkandlay"
         versionCode = "4"
-		version   	= "1.0.4">
+		version   	= "1.0.0">
 
 	<name>Walk&amp;Play</name>
 
@@ -30,7 +30,7 @@
     <gap:splash src="res/screen/android/screen-xhdpi-portrait.png"      gap:platform="android" gap:qualifier="port-xhdpi" />
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg"      gap:platform="winphone" />
 	
-	<preference name="phonegap-version" value="3.7.0" />
+	<preference name="phonegap-version" value="5.2.0" />
     <preference name="orientation" value="default" />
     <preference name="fullscreen" value="true" />
 	
